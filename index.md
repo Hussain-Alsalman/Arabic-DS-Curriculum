@@ -4,4 +4,8 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
 ---
-This is where things start to shape up a little bit 
+## الأساسيات
+1. الاحصاء
+    1. تعريف البيانات
+    2. الإحصاء الوصفي
+    3. الإحصاء الإستدلالي
