@@ -18,8 +18,8 @@ email: ArabianAnalyst@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   هذه الصفحة صممت خصيصا لتطوير منهج عربي شامل لعلم البيانات.
   إذا كنت من المهتمين بعلم البيانات وتريد التعلم والدخول في هذا المجال هذه الصفحة صممت من أجلك.
-baseurl: "Arabic-DS-Curriculum" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "Arabic-DS-Curriculum" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ArabianAnalyst
 github_username:  Hussain-Alsalman
 
