@@ -20,10 +20,10 @@ layout: default
       1.
       1.
    1. مفاهيم احصائية اساسية
-      1. قياس مركزية البيانات
-      1. قياس تشتت البيانات
+      1. [قياس مركزية البيانات](https://www.scad.gov.abudhabi/MethodologyDocumentLib/GPSA%20AR%202017MAR13.pdf#page=11&zoom=auto,-96,698)
+      1. [قياس تشتت البيانات](https://www.scad.gov.abudhabi/MethodologyDocumentLib/GPSA%20AR%202017MAR13.pdf#page=16&zoom=auto,-96,809)
       1. نظرية الإحتمالات
-      1. نموذج الإنحدار الخطي
+      1. [نموذج الإنحدار الخطي](https://www.nmthgiat.com/%d8%a7%d9%84%d8%a7%d8%b1%d8%aa%d8%a8%d8%a7%d8%b7-%d8%a7%d9%84%d8%ae%d8%b7%d9%8a-linear-regression/)
 
 # مستوى متوسط
 1. علم الرياضيات
@@ -34,4 +34,4 @@ layout: default
 1. مفاهيم احصائية متقدمة
    1.
    1.
-   1. 
+   1.
